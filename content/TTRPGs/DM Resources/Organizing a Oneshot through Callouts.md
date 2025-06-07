@@ -8,7 +8,7 @@ tags:
 **Callout box types** can be used to differentiate how and when to give players certain information in a visually intuitive fashion. 
 
 # Basic Usage
-Blocks can (and probably should) be made collapsible `[!like this]+` in order to make it possible to close them once the moment they're needed in passes (both for reduced clutter and for a visual aid in figuring out how much progress has been made).
+Blocks can (and probably should) be made collapsible `> [!like this]+` in order to make it possible to close them once the moment they're needed in passes (both for reduced clutter and for a visual aid in figuring out how much progress has been made).
 
 > [!info]+ Info Blocks
 > **Info Blocks** are used to describe in-world happenings or events which the players are experiencing firsthand. They should be **read aloud** to the players, but can be summarized or adapted depending on the circumstances of the game.
