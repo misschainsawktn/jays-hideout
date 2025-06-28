@@ -1,16 +1,15 @@
 ---
-title: Welcome to the Hideout 𓇼𓏲*ੈ✩‧₊˚🎐
+title: Welcome to the Hideout! 𓇼𓏲*ੈ✩‧₊˚🎐
 tags: 
 draft: 
 aliases:
   - homepage
-created: 2025-06-07
 ---
 # 🎑 A Short Introduction
 
 > [!infobox|n-th]
 > ## Little Ol' Me
-> ![[z_attachments/jay_bnuuy.png|cover hsmall]]
+> ![[z_attachments/misc/jay_bnuuy.png|cover hsmall]]
 > ### Basic Information
 > | ʚ・ ୨୧・ ɞ | ⁠˖⁠ ꒰ 🍮 ⁠꒱ 彡  ๋࣭  ࣪ ˖✩ |
 > | ---- | ---- |
@@ -21,7 +20,7 @@ created: 2025-06-07
 > | Timezone | CET/CEST |
 > | Icon Credit | [hala (via picrew)](https://picrew.me/en/image_maker/277578) |
 
-![[z_attachments/bunnytunes.png|hsmall left]]
+![[z_attachments/misc/bunnytunes.png|hsmall left]]
 
 Hello everyone, welcome to my little hideout on the World Wide Web, now made public just for funsies. My name is **Jay** (although my IRL friends know me as Ely, it's still me!) and I'm just a cute little bunny creature on the Internet, figuring out how to get her space in a world sometimes much too big and confusing.   
 In real life, I am a fifth-year high school student approaching her final exam and nearing her entrance into the world of university. It's scary and exciting at the same time!
@@ -48,6 +47,10 @@ I'm trying to personalize my tagging system based on how I visualize my mindspac
 
 #creek: Media interests. **Creeks** are where I can go when I want to indulge into observing and reflecting on things other people have done.
 
+#page: Personal other stuff. **Pages** are achievements, independent pieces of my writing and much more. Basically, miscellaneous and unsorted things.
+
+#post-it: Little reminders. **Post-Its** are small, generally include a single concept or idea, and may serve as a starting point for other reflections.
+
 Other tags are more specific. If I listed them all here, this page would become unnecessarily long, so you can either discover them by looking around or through the [[tags|Tag Index]].
 
 %%
@@ -56,7 +59,4 @@ Other tags are more specific. If I listed them all here, this page would become 
 Because who doesn't love some (pretty simple) statistics?
 
 %%
-
-
-
 

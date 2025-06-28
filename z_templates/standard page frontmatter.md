@@ -1,6 +1,6 @@
 ---
 title: Sample Title
 draft: false
-tags: []
+tags: 
+aliases:
 ---
-The rest of the stuff goes here! And girlllll you can use **Markdownnnnnnn** :)

@@ -36,6 +36,7 @@
   --callout-icon-example: url('data:image/svg+xml; utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="8" y1="6" x2="21" y2="6"></line><line x1="8" y1="12" x2="21" y2="12"></line><line x1="8" y1="18" x2="21" y2="18"></line><line x1="3" y1="6" x2="3.01" y2="6"></line><line x1="3" y1="12" x2="3.01" y2="12"></line><line x1="3" y1="18" x2="3.01" y2="18"></line></svg> ');
   --callout-icon-quote: url('data:image/svg+xml; utf8, <svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21c3 0 7-1 7-8V5c0-1.25-.756-2.017-2-2H4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2 1 0 1 0 1 1v1c0 1-1 2-2 2s-1 .008-1 1.031V20c0 1 0 1 1 1z"></path><path d="M15 21c3 0 7-1 7-8V5c0-1.25-.757-2.017-2-2h-4c-1.25 0-2 .75-2 1.972V11c0 1.25.75 2 2 2h.75c0 2.25.25 4-2.75 4v3c0 1 0 1 1 1z"></path></svg>');
   --callout-icon-fold: url('data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"%3E%3Cpolyline points="6 9 12 15 18 9"%3E%3C/polyline%3E%3C/svg%3E');
+--callout-icon-layout:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='lucide lucide-layout-dashboard-icon lucide-layout-dashboard'%3E%3Crect width='7' height='9' x='3' y='3' rx='1'/%3E%3Crect width='7' height='5' x='14' y='3' rx='1'/%3E%3Crect width='7' height='9' x='14' y='12' rx='1'/%3E%3Crect width='7' height='5' x='3' y='16' rx='1'/%3E%3C/svg%3E");
 
   &[data-callout] {
     --color: #448aff;
@@ -365,6 +366,17 @@
   /* Quartz does not use --callout-content-padding variable; replace with 'padding' */
 }
 
+.callout:is([data-callout-metadata~=t-w],
+[data-callout-metadata~=table-wide]) table {
+  width: 95%;
+  margin-left:auto;
+  margin-right:auto;
+}
+.callout:is([data-callout-metadata~=t-w],
+[data-callout-metadata~=table-wide]) table td {
+  width: calc(var(--tbl-w) / 2);
+}
+
 /* --- Text Formatting --- */
 .callout.callout:is([data-callout-metadata~=txt-l],
 [data-callout-metadata~=text-left]) > .callout-content > * {
@@ -664,4 +676,125 @@
   .callout.callout[data-callout~=caption]:is([data-callout-metadata~=sban], [data-callout-metadata~=banner]) .image-embed img {
     width: 100%;
   }
-  
+
+/*Kanban*/
+.callout.callout[data-callout~=kanban] {
+  --color: #8e9c7c;
+  --callout-icon:var(--callout-icon-layout);
+  --callout-padding: 0;
+  --item-outline: 0 0 0 1px var(--outline, var(--background-modifier-border));
+  --lane-width: 170px;
+  background: transparent;
+  box-shadow: none;
+  border: 0;
+  width: auto;
+}
+.callout.callout[data-callout~=kanban] .callout-title {
+  justify-content: center;
+  background: var(--code-bg, var(--background-primary));
+  padding: 5px;
+  border-radius: var(--radius-s);
+}
+.callout.callout[data-callout~=kanban] .callout-title-inner {
+  flex: unset;
+}
+.callout.callout[data-callout~=kanban] .callout-content {
+  padding: 0;
+}
+.callout.callout[data-callout~=kanban] ul li::marker, .callout.callout[data-callout~=kanban] ul li::before, .callout.callout[data-callout~=kanban] .list-bullet, .callout.callout[data-callout~=kanban] ul::before, .callout.callout[data-callout~=kanban] :is(ul, ul ul) .list-collapse-indicator {
+  list-style-type: none;
+  color: transparent;
+  display: none !important;
+}
+.callout.callout[data-callout~=kanban] ul {
+  display: flex;
+  margin-block-start: 5px;
+  padding-inline-start: 0;
+  text-align: center;
+  overflow: auto;
+}
+.callout.callout[data-callout~=kanban] ul.list-view-ul {
+  margin-inline-start: unset;
+}
+.callout.callout[data-callout~=kanban] ul li {
+  min-width: var(--lane-width);
+  border: 0;
+  padding: 5px 20px;
+  margin: 5px 1px;
+  padding-top: 4px;
+  background: var(--note, var(--background-primary-alt));
+  border-radius: var(--radius-s);
+  box-shadow: var(--item-outline), var(--shadow-s);
+}
+.callout.callout[data-callout~=kanban] ul ul {
+  flex-direction: column;
+  text-align: left;
+  overflow: unset;
+}
+.callout.callout[data-callout~=kanban] ul ul li {
+  min-width: calc(var(--lane-width) / 2);
+  padding: 5px;
+  box-shadow: var(--item-outline), var(--shadow-s);
+  background: var(--code-bg, var(--background-primary));
+}
+.callout.callout[data-callout~=kanban] ul ul li :is(img, .internal-embed) {
+  margin-bottom: -6px;
+}
+.callout.callout[data-callout~=kanban] ul.contains-task-list .task-list-item-checkbox {
+  margin-inline-start: 0;
+}
+.callout.callout[data-callout~=kanban] .task-list-item-checkbox {
+  cursor: default;
+}
+.callout.callout[data-callout~=kanban] :is(ul, ol) > li p:first-of-type {
+  margin-block-start: 0;
+}
+
+/*Image Grid*/
+.callout.callout[data-callout=grid] {
+  --callout-padding: 0;
+  --callout-content-padding: 0;
+  background: transparent;
+  border: 0;
+  margin: 0;
+  box-shadow: none;
+}
+.callout.callout[data-callout=grid] .callout-content {
+  display: block;
+  width: 100%;
+  border: 0;
+  box-shadow: unset;
+  padding: 0;
+}
+.callout.callout[data-callout=grid] .callout-title {
+  display: none;
+}
+.callout.callout[data-callout=grid] .callout-content p {
+  display: flex;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  justify-content: center;
+}
+.callout.callout[data-callout=grid] .callout-content img {
+  display: table-cell;
+  vertical-align: middle;
+  padding: 3px;
+  max-height: 35vh;
+}
+.callout.callout[data-callout=grid] .callout-content img[alt=wfull] {
+  max-height: unset;
+}
+.callout.callout[data-callout=grid][data-callout-metadata~=masonry] .callout-content p {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(0, auto));
+  grid-gap: 0;
+  margin: 0;
+  margin-top: 1px;
+}
+.callout.callout[data-callout=grid][data-callout-metadata~=masonry] .callout-content img {
+  display: flex;
+  flex: 1;
+  align-self: stretch;
+  object-fit: cover;
+  max-height: unset;
+}
