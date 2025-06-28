@@ -29,7 +29,7 @@ tags:
 > ### Credits
 > | ʚ・ ୨୧・ ɞ | ⁠˖⁠ ꒰ 🍮 ⁠꒱ 彡  ๋࣭  ࣪ ˖✩ |
 > | ---- | ---- |
-> | Fandom | [[Soulsborne Blind Runs\|Dark Souls]] |
+> | Fandom | [[Soulsborne Blind Run\|Dark Souls]] |
 > | Icon Credit | [kureihii on Picrew](https://picrew.me/en/image_maker/1272810) |
 
 > [!cite|subtitle ttl-c txt-c] The Grieving Guardian _upon talking to her after greeting her_
@@ -55,11 +55,11 @@ The **Grieving Guardian** (Japanese: 悲嘆に暮れる後見人, Hepburn: *Hita
 > | Occupation | Knight |
 > | Gender | Demigirl (she/they) |
 > | Orientation | Demi-bisexual |
-> | Affiliation | Knights of Gwyn; [[Tiiramehn]] |
+> | Affiliation | Knights of Gwyn; [[Veiled Witch of Darkroot\|Tiiramehn]] |
 > ### Credits
 > | ʚ・ ୨୧・ ɞ | ⁠˖⁠ ꒰ 🍮 ⁠꒱ 彡  ๋࣭  ࣪ ˖✩ |
 > | ---- | ---- |
-> | Fandom | [[Soulsborne Blind Runs\|Dark Souls]] |
+> | Fandom | [[Soulsborne Blind Run\|Dark Souls]] |
 > | Icon Credit | [Humesteria on Picrew](https://picrew.me/en/image_maker/1949436) |
 
 > [!cite|subtitle ttl-c txt-c] Kahrrdann _talking to her in Royal Wood_

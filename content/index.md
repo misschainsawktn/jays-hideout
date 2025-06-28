@@ -45,13 +45,13 @@ I'm trying to personalize my tagging system based on how I visualize my mindspac
 
 #bonfire: Personal creative efforts. **Bonfires** are projects I can sit around and work on at my own pace without worrying much, because they're for myself before they are for anyone else. Flames may dim, but they're never truly gone forever.
 
-#creek: Media interests. **Creeks** are where I can go when I want to indulge into observing and reflecting on things other people have done.
+#creek: Media interests. **Creeks** are where I can go when I want to indulge into observing and reflecting on things other people have done. 
 
 #page: Personal other stuff. **Pages** are achievements, independent pieces of my writing and much more. Basically, miscellaneous and unsorted things.
 
 #post-it: Little reminders. **Post-Its** are small, generally include a single concept or idea, and may serve as a starting point for other reflections.
 
-Other tags are more specific. If I listed them all here, this page would become unnecessarily long, so you can either discover them by looking around or through the [[tags|Tag Index]].
+Other tags are more specific. If I listed them all here, this page would become unnecessarily long, so you can either discover them by just looking around or through the [[tags|Tag Index]].
 
 %%
 # 📊 Quick Statistics

@@ -1,5 +1,5 @@
 ---
-title: Trying to figure out Cel3 by myself
+title: Trying to figure out Cel3's Reality by myself
 draft: 
 tags:
   - creek

@@ -20,7 +20,7 @@ tags:
 > | ʚ・ ୨୧・ ɞ | ⁠˖⁠ ꒰ 🍮 ⁠꒱ 彡  ๋࣭  ࣪ ˖✩ |
 > | ---- | ---- |
 > | Name | Vesper |
-> | Species | Human |
+> | Species | Human (Undead) |
 > | Class | Pyromancer |
 > | Gift | Twin Humanities |
 > | Gender | nonbinary (they/them) |
@@ -28,7 +28,7 @@ tags:
 > ### Credits
 > | ʚ・ ୨୧・ ɞ | ⁠˖⁠ ꒰ 🍮 ⁠꒱ 彡  ๋࣭  ࣪ ˖✩ |
 > | ---- | ---- |
-> | Fandom | [[Soulsborne Blind Runs\|Dark Souls]] |
+> | Fandom | [[Soulsborne Blind Run\|Dark Souls]] |
 > | Icon Credit | [SaintSam on Picrew](https://picrew.me/en/image_maker/2052179) |
 
 
@@ -36,9 +36,9 @@ tags:
 > [!cite|subtitle ttl-c txt-c] My boyfriend and I (and probably Ves too) _on how to solve most situations we're faced with in-game_
 > Pyromancy ***always*** works!!
 
-The protagonist of one of the many [[Soulsborne Blind Runs|Soulsborne Blind x Veteran Runs]], more specifically of the [[Dark Souls]] one. They barely have an idea who they are, but they've learned they're the Chosen successor of Gwyn and has no intention of failing their mission. This one, they can't afford to mess up. They've already fucked up so many times before.
+The protagonist of one of the many [[Soulsborne Blind Run|Soulsborne Blind x Veteran Runs]], more specifically of the [[Dark Souls]] one. They barely have an idea who they are, but they've learned they're the Chosen successor of Gwyn and has no intention of failing their mission. This one, they can't afford to mess up. They've already fucked up so many times before.
 
-Hangs around in cute skirts and waistcloths under their armor while swinging Nito's big ass sword around like it's nobody's business. nonbinary swag all day and all night. they're going to beat gwyn's ass while wearing his son's pretty white skirt someday
+Hangs around in cute skirts and waistcloths under their armor while swinging Nito's big ass sword around like it's nobody's business. nonbinary swag all day and all night. they're going to beat gwyn's ass while wearing his son's pretty white skirt someday. that day is not too far away they are so eager to beat him to death
 
 - fuck it we (fire)ball
 - This guy just casts Chameleon whenever. They find it such a silly thing to do, especially in really fucking dangerous situations. Once cast it while fighting SEATH. Has no sense of danger whatsoever.

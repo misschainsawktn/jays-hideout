@@ -33,7 +33,7 @@ aliases:
 > ### Credits
 > | ʚ・ ୨୧・ ɞ | ⁠˖⁠ ꒰ 🍮 ⁠꒱ 彡  ๋࣭  ࣪ ˖✩ |
 > | ---- | ---- |
-> | Fandom | [[Soulsborne Blind Runs\|Dark Souls]] |
+> | Fandom | [[Soulsborne Blind Run\|Dark Souls]] |
 > | Icon Credit | [kureihii on Picrew](https://picrew.me/en/image_maker/1272810) |
 
 > [!cite|subtitle ttl-c txt-c] The Veiled Witch _upon greeting her_
@@ -62,7 +62,7 @@ The **Veiled Witch of Darkroot** (Japanese: ベールの魔女, Hepburn: *Bēru 
 > ### Credits
 > | ʚ・ ୨୧・ ɞ | ⁠˖⁠ ꒰ 🍮 ⁠꒱ 彡  ๋࣭  ࣪ ˖✩ |
 > | ---- | ---- |
-> | Fandom | [[Soulsborne Blind Runs\|Dark Souls]] |
+> | Fandom | [[Soulsborne Blind Run\|Dark Souls]] |
 > | Icon Credit | [Humesteria on Picrew](https://picrew.me/en/image_maker/1949436) |
 
 > [!cite|subtitle ttl-c txt-c] Tiiramehn _talking to her in Royal Wood_

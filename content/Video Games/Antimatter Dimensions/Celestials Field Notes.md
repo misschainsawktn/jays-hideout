@@ -70,7 +70,7 @@ Painful. Slow and painful. Thank God for The Nameless Ones being unlocked in Eff
 ## The Nameless Ones
 
 ### Reality
-I have a whole note dedicated to my self-made observations about their Reality: [[Cel3 Field Notes|Trying to figure out Cel3 by myself]]. My favorite one so far, hard but extremely fun to figure out.
+I have a whole note dedicated to my self-made observations about their Reality: [[Cel3 Reality Field Notes|Trying to figure out Cel3 by myself]]. My favorite one so far, hard but extremely fun to figure out.
 
 ## V
 
