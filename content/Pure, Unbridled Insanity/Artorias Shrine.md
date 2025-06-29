@@ -1,6 +1,6 @@
 ---
 title: The Artorias Shrine
-draft: false
+draft: true
 tags:
   - creek
   - dark-souls

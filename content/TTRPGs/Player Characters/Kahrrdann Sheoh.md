@@ -41,7 +41,6 @@ Whenever Kahrrdann happens to doff her armor, the sight has a tendency to be som
 Kahrrdann's tale begins in the moment of her creation at the hands of Sybrig, a powerful sorceress fueled by obsession towards her goal of creating a perfect lifeform, one that would obey her every command without question, that wouldn't dare ever leave her side, that would make her akin to a God. Of all her experiments made on Elementals and suits of armor, Kahrrdann was the first successful one
 
 ---
-
 # Game Statistics and Equipment
 
 ## General Information
@@ -131,11 +130,10 @@ Kahrrdann's tale begins in the moment of her creation at the hands of Sybrig, a 
 | :-----------------------------------------------------: | :-----------------------------------------------------: | :-------------------------------------------------------: | :---------------------------------------------------: | :------------------------------------------------------: |
 |                            ?                            |                            ?                            |                             ?                             |                           ?                           |                            ?                             |
 
+---
 # Image Gallery
 
-
-
-
+---
 # AUs
 For any version of Kahrrdann that exists in some other worlds, in some other way...
 

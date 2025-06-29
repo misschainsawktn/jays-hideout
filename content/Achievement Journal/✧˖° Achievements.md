@@ -1,6 +1,6 @@
 ---
 title: ✧˖° A sticker book of achievements
-draft: false
+draft: true
 tags:
   - "#cupboard"
   - achievement
@@ -13,4 +13,4 @@ Achievements are listed in chronological order, and each entry contains a "stick
 | :---------------------------------------------------------------: | :-----------------------------------------: | :-----------------------------------------: | :---------: |
 |   ![[z_attachments/stickers/miffy_sticker_1.png\|htiny center]]   | [[2025-06-08 - To The Urns!\|To The Urns!]] |         Go vote for the first time.         | 2025-06-08  |
 | ![[z_attachments/stickers/silly_duck_figurine.png\|htiny center]] |           [[Two Down, One To Go]]           | Finish the written part of your final exam. | 2025-06-19  |
-|                                                                   |                                             |     Finish your final highschool exam.      | 2025-06-24  |
+|                                                                   |              [[End of an Era]]              |     Finish your final highschool exam.      | 2025-06-24  |

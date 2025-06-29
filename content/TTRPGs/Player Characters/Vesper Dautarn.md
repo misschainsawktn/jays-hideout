@@ -23,3 +23,11 @@ aliases:
 > ### Adventures
 > - thing
 
+
+---
+# AUs
+For any version of Vesper that exists in some other worlds, in some other way...
+
+|                         Icon                         |           Name           |    Universe    |                        Notes                         |
+| :--------------------------------------------------: | :----------------------: | :------------: | :--------------------------------------------------: |
+| ![[z_attachments/ocs/icon/vesper_ds1_icon.png\|175]] | [[Vesper (DS1)\|Vesper]] | [[Dark Souls]] | Jean Darksouls1... Their ass IS the Chosen Undead... |

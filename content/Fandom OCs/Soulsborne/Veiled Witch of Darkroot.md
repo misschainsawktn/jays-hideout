@@ -39,7 +39,7 @@ aliases:
 > [!cite|subtitle ttl-c txt-c] The Veiled Witch _upon greeting her_
 > Oh, a visitor..! And thou dost not appear Hollow, indeed... Welcome.
 
-The **Veiled Witch of Darkroot** (Japanese: ベールの魔女, Hepburn: *Bēru no Majo*)[^1] is a character and merchant in [[Dark Souls]]. 
+The **Veiled Witch of Darkroot, Tiiramehn** (Japanese: ベールの魔女ィーラメン, Hepburn: *Bēru no Majo Tīramen*)[^1] is a character and merchant in [[Dark Souls]]. She can be found in a small hut in Darkroot Garden, guarding her bonfire.
 
 
 
@@ -54,7 +54,7 @@ The **Veiled Witch of Darkroot** (Japanese: ベールの魔女, Hepburn: *Bēru 
 > | ʚ・ ୨୧・ ɞ | ⁠˖⁠ ꒰ 🍮 ⁠꒱ 彡  ๋࣭  ࣪ ˖✩ |
 > | ---- | ---- |
 > | Name | Tiiramehn |
-> | Title | Witch of Poison Tiiramehn |
+> | Title | Witch of Poison |
 > | Occupation | Fire Keeper |
 > | Gender | cis female (she/her) |
 > | Orientation | aro lesbian |
@@ -65,10 +65,14 @@ The **Veiled Witch of Darkroot** (Japanese: ベールの魔女, Hepburn: *Bēru 
 > | Fandom | [[Soulsborne Blind Run\|Dark Souls]] |
 > | Icon Credit | [Humesteria on Picrew](https://picrew.me/en/image_maker/1949436) |
 
-> [!cite|subtitle ttl-c txt-c] Tiiramehn _talking to her in Royal Wood_
-> No matter how far the darkness spreads, I am bound to remain in this place. But thou, o Undead...
+> [!cite|subtitle ttl-c txt-c] Tiiramehn _talking to her in the Royal Wood_
+> No matter how far the darkness spreads, I am bound to remain in this place. But thou, o Undead... Leave, while thou still canst.
 
 **Witch of Poison Tiiramehn** (Japanese: 毒の魔女ティーラメン, Hepburn: *Doku no Majo Tīramen*)[^1] is a character and merchant in the [[Dark Souls#Artorias of the Abyss|Artorias of the Abyss]] DLC.
+
+
+## Trivia
+- Killing her in Royal Wood, in the past, will make her disappear and her bonfire die down in the present too.
 
 
 

@@ -51,7 +51,7 @@ The **Grieving Guardian** (Japanese: 悲嘆に暮れる後見人, Hepburn: *Hita
 > | ʚ・ ୨୧・ ɞ | ⁠˖⁠ ꒰ 🍮 ⁠꒱ 彡  ๋࣭  ࣪ ˖✩ |
 > | ---- | ---- |
 > | Name | Kahrrdann |
-> | Title | Blazing Defender Kahrrdann |
+> | Title | Blazing Defender |
 > | Occupation | Knight |
 > | Gender | Demigirl (she/they) |
 > | Orientation | Demi-bisexual |
@@ -62,10 +62,13 @@ The **Grieving Guardian** (Japanese: 悲嘆に暮れる後見人, Hepburn: *Hita
 > | Fandom | [[Soulsborne Blind Run\|Dark Souls]] |
 > | Icon Credit | [Humesteria on Picrew](https://picrew.me/en/image_maker/1949436) |
 
-> [!cite|subtitle ttl-c txt-c] Kahrrdann _talking to her in Royal Wood_
+> [!cite|subtitle ttl-c txt-c] Kahrrdann _talking to her in the Royal Wood_
 > No, I... I understand. I should thank thee, for putting him to rest with dignity...
 
-**Blazing Defender Kahrrdann** (Japanese: 燃え盛るディフェンダーカルダン, Hepburn: *Moesakaru Difendā Karudan*)[^1] is a character in the [[Dark Souls#Artorias of the Abyss|Artorias of the Abyss]] DLC.
+**Blazing Defender Kahrrdann** (Japanese: 燃え盛るディフェンダーカルダン, Hepburn: *Moesakaru Difendā Karudan*)[^1] is a character in the [[Dark Souls#Artorias of the Abyss|Artorias of the Abyss]] DLC. A view into what the Grieving Guardian had been before leaving the Royal Wood once and for all, 
+
+## Trivia
+- Killing her in Royal Wood, in the past, will make her disappear in the present too. Her bonfire will still be accessible, but not kindled anymore (if it hadn't been kindled by the Chosen Undead already).
 
 ---
 # The Section Where the Insanity Starts To Slip Through
